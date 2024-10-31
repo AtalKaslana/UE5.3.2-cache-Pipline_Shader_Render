@@ -43,3 +43,4 @@ FToonMeshPassParameters* GetToonPassParameters(FRDGBuilder& GraphBuilder, const 
 {
 	FToonMeshPassParameters* PassParameters = GraphBuilder.AllocParameters<
 }	
+
